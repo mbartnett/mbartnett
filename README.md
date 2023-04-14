@@ -15,7 +15,7 @@ I'm an experienced developer, designer, producer, and strategist with a focus in
 - LinkedIn: [linkedin.com/in/mbartnett](https://www.linkedin.com/in/mbartnett)
 - Email: [mbartnett@gmail.com](mailto:mbartnett@gmail.com)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbartnett&show_icons=true)](https://github.com/mbartnett) 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbartnett&theme=github_dark_dimmed&show_icons=true)](https://github.com/mbartnett) 
 
 I'm always open to meeting new folks and exploring exciting opportunities.
 
