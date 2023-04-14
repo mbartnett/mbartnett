@@ -30,7 +30,7 @@ I'm an experienced developer, designer, producer, and strategist with a focus in
 - 🔧 Other: 
   - MERN stack: [![MERN Badge](https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.mongodb.com/mern-stack)
   - GraphQL: [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-  - Context API: [![Context API Badge](https://img.shields.io/badge/Context_API-3178C6
+  - Context API: [![Context API Badge](https://img.shields.io/badge/Context_API-3178C6?style=for-the-badge)](https://reactjs.org/docs/context.html)
 
 
 ## 📫 Get in touch
