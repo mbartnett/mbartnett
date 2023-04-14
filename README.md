@@ -9,8 +9,6 @@ I'm an experienced developer, designer, producer, and strategist with a focus in
 - Project management
 - Digital marketing
 
-## Skills
-
 - 💻 Front-end: 
   - HTML5: [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   - CSS3: [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
