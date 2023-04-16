@@ -1,4 +1,4 @@
-# Howdy, I'm Michael Bartnett 👋
+# Howdy, I'm Michael Bartnett 👋🏼
 
 I'm an experienced developer, designer, and strategist with a focus in the media, technology, and entertainment landscapes. I recently completed a full stack web development certification from the Univeristy of Texas at Austin. I'm skilled in full stack web development, graphic design, project management, and digital marketing. 
 
