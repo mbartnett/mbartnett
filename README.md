@@ -1,6 +1,6 @@
 # Howdy, I'm Michael Bartnett 👋🏼
 
-I'm an experienced developer, designer, and strategist with a focus in the media, technology, and entertainment landscapes. I recently completed a full stack web development certification from the Univeristy of Texas at Austin. I'm skilled in full stack web development, graphic design, project management, and digital marketing. 
+I'm an experienced developer, designer, and strategist with a focus in the media, education, and entertainment landscapes. I recently completed a full stack web development certification from the Univeristy of Texas at Austin. I'm skilled in full stack web development, graphic design, project management, and digital marketing. 
 
 ## 🚀 Skills
 
@@ -31,9 +31,7 @@ I'm an experienced developer, designer, and strategist with a focus in the media
 - LinkedIn: [linkedin.com/in/mbartnett](https://www.linkedin.com/in/mbartnett)
 - Email: [mbartnett@gmail.com](mailto:mbartnett@gmail.com)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbartnett&theme=github_dark_dimmed&show_icons=true)](https://github.com/mbartnett) 
-
-I'm always open to meeting new folks and exploring possible opportunities.
+I'm always open to meeting new folks and exploring opportunities for collaboration.
 
 
 <!--
