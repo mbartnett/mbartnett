@@ -27,7 +27,6 @@ I'm an experienced developer, designer, and strategist with a focus in the media
 
 ## 📫 Get in touch
 
-- Website: [mbart.net](http://mbart.net/)
 - LinkedIn: [linkedin.com/in/mbartnett](https://www.linkedin.com/in/mbartnett)
 - Email: [mbartnett@gmail.com](mailto:mbartnett@gmail.com)
 
