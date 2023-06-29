@@ -1,6 +1,6 @@
 # Howdy, I'm Michael Bartnett 👋🏼
 
-I'm an experienced developer, designer, and strategist with a focus in the media, education, and entertainment landscapes. I'm skilled in full-stack web development, design, project management, and digital marketing. 
+I'm an experienced developer, designer, and strategist.
 
 ## 🚀 Skills
 
