@@ -1,7 +1,5 @@
 # Howdy, I'm Michael Bartnett 👋
 
-I'm an experienced developer, designer, and strategist.
-
 ## 🚀 Skills
 
 - 💻 Front-end:<br><br> 
