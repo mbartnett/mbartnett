@@ -1,4 +1,4 @@
-# Howdy, I'm Michael Bartnett 👋🏼
+# Howdy, I'm Michael Bartnett 👋
 
 I'm an experienced developer, designer, and strategist.
 
