@@ -22,9 +22,10 @@
 [![MERN Badge](https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.mongodb.com/mern-stack)
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Context API Badge](https://img.shields.io/badge/Context_API-3178C6?style=for-the-badge)](https://reactjs.org/docs/context.html)
--->
+
 
 ## 📫 Get in touch
+-->
 
 - LinkedIn: [linkedin.com/in/mbartnett](https://www.linkedin.com/in/mbartnett)
 - Email: [mbartnett@gmail.com](mailto:mbartnett@gmail.com)
